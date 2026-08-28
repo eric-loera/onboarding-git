@@ -1,0 +1,36 @@
+# Part 2 - review
+
+- Q1 : 
+	- Editing the file directly in the repo file explorer clicking the "Edit this file" option
+	- Pressing period key (.) to open the web editor
+- Q2 :
+	- creating : Starts a dev environment from a repo or branch
+	- active: The code space is ready to use
+	- stopped: The process stops, the saved work remains
+	- deleted: The process is stopped and the configuration is deleted
+- Q3 :
+	- If the work is saved it will be preserved and available when the code spaces is started again.
+- Q4 : 
+	- Everyone, to avoid unauthorized access
+- Q5 :
+	- Owner(admin) and Collaborator(read and write access)
+- Q6 : 
+	- Public, for everyone to find, Private, only available for the owner and collaborators
+- Q7 :
+	- Automatically assigns code reviewers for specific files or directories
+- Q8 : 
+	- Creating a branch protection ruleset and enabling required status checks
+- Q9 :
+	- In a ruleset directed to the main branch, enable required approvals and set it to 2 reviewers
+- Q10: 
+	- Is a semantic code analysis engine
+	- In GitHub is integrated to automate the detection of vulnerabilities and code quality issues
+- Q11: 
+	- A fork is a copy of a repository under another account, should be used when you don't have permission to directly modify code in the original repo
+- Q12: 
+	- Is a request to review and merge changes from one branch into another
+- Q13:
+	- base is the main branch and the compare is the feature-a branch
+- Q14:
+	- Draft PR is a pull request in progress, should be used when the changes are not ready to review or merge yet
+	
